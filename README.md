@@ -22,7 +22,9 @@ Include the link to your Devpost project page here:   ---------
 ## **Usage**
 This section walks a prospective user through the process of installing and running the project on their local machine. 
 The more detailed and the more accurate, the better. User-friendly instructions will entice prospective users (including judges) to engage more deeply with your project, which could improve your hackathon score.
-**Prerequisites**
+
+
+### **Prerequisites** 
 What prerequisites must be installed in order to run your project, and how do you install them?
 Provide code samples in this fenced code block.
 
