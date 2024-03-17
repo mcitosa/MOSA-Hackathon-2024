@@ -14,10 +14,10 @@ Include the link to your Devpost project page here:   ---------
 
 **Authors**
 
-- Name
-- Name
-- Name
-- Name
+- Name - Devpost ID – Penn email - GitHub
+- Name - Devpost ID – Penn email - GitHub
+- Name - Devpost ID – Penn email - GitHub
+- Name - Devpost ID – Penn email - GitHub
 
 ## **Usage**
 This section walks a prospective user through the process of installing and running the project on their local machine. 
