@@ -8,3 +8,14 @@ You are free to use whatever language(s) for the MOSA Summer of Code Project, an
 
 
 ## **Overview**
+
+## **Project summary**
+
+Please provide a short (one paragraph) summary of your project. Consider this your elevator pitch.
+Include the link to your Devpost project page here:   ---------
+
+**Authors**
+**- Name**
+**- Name**
+**- Name**
+**- Name**
