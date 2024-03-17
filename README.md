@@ -49,9 +49,9 @@ Etc.
 
 ### **Tools used**
 Which frameworks, libraries, or other tools did you use to create your project?
-[Tool 1] (https://maven.apache.org/) - Description (e.g. "Web framework used")
-[Tool 2] (https://maven.apache.org/)  - Description 
-[Tool 3] (https://maven.apache.org/) - Description 
+[Tool 1](https://maven.apache.org/) - Description (e.g. "Web framework used")
+[Tool 2](https://maven.apache.org/)  - Description 
+[Tool 3](https://maven.apache.org/) - Description 
 
 ## **Acknowledgments**
 Use anyone else's code? Inspired by a particular project? List / link here.
@@ -65,6 +65,6 @@ If desired, add a section for your license. Reference sites like (https://choose
 
 For example:
 
-This package is licensed under the GNU General Public License v3.0 [GPL-3] (https://choosealicense.com/licenses/gpl-3.0/).
+This package is licensed under the GNU General Public License v3.0 [GPL-3](https://choosealicense.com/licenses/gpl-3.0/).
 
 
