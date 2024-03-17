@@ -25,6 +25,7 @@ The more detailed and the more accurate, the better. User-friendly instructions 
 **Prerequisites**
 What prerequisites must be installed in order to run your project, and how do you install them?
 Provide code samples in this fenced code block.
+
 **Installation**
 Give a step-by-step rundown of how to install your project.
 
@@ -35,6 +36,7 @@ State step 2.
 
 Provide code samples in this fenced code block.
 Etc.
+
 **Deployment**
 Give a step-by-step rundown of how to use your project. Including screenshots in this section can be highly effective for highlighting specific features of your project.
 
