@@ -32,20 +32,24 @@ Give a step-by-step rundown of how to install your project.
 State step 1.
 
 Provide code samples in this fenced code block.
+
 State step 2.
 
 Provide code samples in this fenced code block.
+
 Etc.
 
 ### **Deployment**
 Give a step-by-step rundown of how to use your project. Including screenshots in this section can be highly effective for highlighting specific features of your project.
 
-State step 1.
+State step 1. 
 
 Provide code samples in this fenced code block.
+
 State step 2.
 
 Provide code samples in this fenced code block.
+
 Etc.
 ## **Additional information**
 
