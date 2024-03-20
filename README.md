@@ -10,14 +10,14 @@ You are free to use whatever language(s) for the MOSA Summer of Code Project, an
 **Project Summary**
 
 Please provide a short (one paragraph) summary of your project. Consider this your elevator pitch.
-Include the link to your Devpost project page here:   ---------
+Include the link to your Devpost project page here: (https://manage.devpost.com/challenges/20742-mosa-hackathon-2024/edit?form=essentials)
 
 **Authors**
 
-- Name - Devpost ID – Penn email - GitHub
-- Name - Devpost ID – Penn email - GitHub
-- Name - Devpost ID – Penn email - GitHub
-- Name - Devpost ID – Penn email - GitHub
+- Name - Devpost ID – Penn email - [GitHub](https://github.com/username)
+- Name - Devpost ID – Penn email - [GitHub](https://github.com/username)
+- Name - Devpost ID – Penn email - [GitHub](https://github.com/username)
+- Name - Devpost ID – Penn email - [GitHub](https://github.com/username)
 
 ## **Usage**
 This section walks a prospective user through the process of installing and running the project on their local machine. 
