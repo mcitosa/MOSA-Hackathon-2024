@@ -10,7 +10,7 @@ You are free to use whatever language(s) for the MOSA Summer of Code Project, an
 **Project Summary**
 
 Please provide a short (one paragraph) summary of your project. Consider this your elevator pitch.
-Include the link to your Devpost project page here: (https://manage.devpost.com/challenges/20742-mosa-hackathon-2024/edit?form=essentials)
+Include the link to your Devpost project page here: (https://mosa-spring-hackathon-2024.devpost.com/)
 
 **Authors**
 
